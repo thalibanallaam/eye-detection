@@ -1,0 +1,5 @@
+URL Dataset:
+- https://www.kaggle.com/datasets/prasadvpatil/mrl-dataset/data
+
+URL deployment:
+- https://huggingface.co/spaces/thalibanallaam/EyeDetection
