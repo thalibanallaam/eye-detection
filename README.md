@@ -1,15 +1,14 @@
-# Obesity Level Estimator
+# Eye Detection
 
 ## Repository Outline
 ```
 1. README.md - This file
-2. Obesity_Estimation.ipynb - The main notebook containing the data analysis, data processing and modeling process.
-3. Obesity_Estimation_Inference.ipynb - Model inference of the model made in the main notebook.
+2. Eye_Detection.ipynb - The main notebook containing the data analysis, data processing and modeling process.
+3. Eye_Detection_Inference.ipynb - Model inference of the model made in the main notebook.
 4. url.txt - File containing URL of the dataset and model deployment.
 5. Deployment - Folder containing files required for the deployment.
     a. app.py - The main script.
-    b. eda.py - Script for the deployment of the Exploratory Data Analysis (EDA) results.
-    c. prediction.py - Script for the deployment of the model inference.
+    b. model_new.keras - Model output
 ```
 
 ## Problem Background
