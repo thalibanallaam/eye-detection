@@ -1,5 +1,7 @@
 # Eye Detection
 
+The Eye Detection project is a machine learning application designed to detect whether human eyes in images are open or closed. This functionality is particularly useful in applications such as drowsiness detection systems, where monitoring eye states can help prevent accidents caused by driver fatigue.
+
 ## Repository Outline
 ```
 1. README.md - This file
